@@ -38,8 +38,8 @@ __Проверим, что nginx работает корректно:__
 
 
 __Конфигурируем /etc/nginx/nginx.conf / проверяем конфигурацию / если все ок то прегружаем сервис nginx__
-![текст](screenshots/snginx_playbook.png)
-![текст](screenshots/snginx_status2.png)
+![текст](screenshots/nginx_playbook.png)
+![текст](screenshots/nginx_status2.png)
 
 
 
